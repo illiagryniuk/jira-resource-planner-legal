@@ -1,3 +1,10 @@
-title: Resource Planner Legal and Security
-description: Public legal and security documents for the Resource Planner Jira app.
+title: Resource Planner & Gantt for Jira
+description: Documentation, support, privacy, and security information for Resource Planner & Gantt for Jira.
+url: https://illiagryniuk.github.io
+baseurl: /jira-resource-planner-legal
 theme: minima
+header_pages:
+  - documentation.md
+  - support.md
+  - privacy-policy.md
+  - security-statement.md
