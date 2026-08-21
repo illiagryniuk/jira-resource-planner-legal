@@ -1,12 +1,37 @@
-# Resource Planner Legal and Security
+---
+layout: page
+title: Resource Planner & Gantt for Jira
+permalink: /
+---
 
-Last updated: June 24, 2026
+Last updated: August 21, 2026
 
-This site contains the public legal and security documents for the Resource Planner app.
+Resource Planner & Gantt for Jira helps teams plan Jira work by assignee and
+coordinate delivery through connected resource and Gantt timelines.
+
+## Product Resources
+
+- [Documentation](./documentation.html)
+- [Support](./support.html)
+
+## Trust Center
 
 - [Privacy Policy](./privacy-policy.html)
+- [Cloud Security Statement](./security-statement.html)
+- [Data Handling and Retention](./data-handling.html)
+- [Subprocessors](./subprocessors.html)
 - [Terms of Service](./terms.html)
 - [Data Processing Addendum](./dpa.html)
-- [Cloud Security Statement](./security-statement.html)
+
+## Provider
+
+Resource Planner & Gantt for Jira is provided under the Product Radar brand by
+**ФОП Гринюк Ілля Олександрович**, an individual entrepreneur based in
+Netishyn, Khmelnytskyi region, Ukraine.
+
+Website: [product-radar.com](https://product-radar.com/)
 
 Contact: [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)
+
+The application and its source code are proprietary. This public repository
+contains documentation and legal information only.
