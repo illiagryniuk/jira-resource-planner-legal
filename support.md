@@ -8,7 +8,7 @@ Last updated: August 21, 2026
 
 ## Contact
 
-Email: [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)<br>
+Email: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)<br>
 Website: [product-radar.com](https://product-radar.com/)
 
 Support is provided asynchronously Monday through Friday, excluding public
@@ -47,7 +47,7 @@ information, or other secrets.
 ## Security Reports
 
 Do not use a public issue or public discussion for a suspected vulnerability.
-Email [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com) with the
+Email [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com) with the
 subject `Security report: Resource Planner & Gantt for Jira` and include:
 
 - A clear description and affected feature.
@@ -62,7 +62,7 @@ time for investigation and remediation before public disclosure.
 ## Privacy and Data Requests
 
 For access, correction, deletion, or other privacy requests, email
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com). Jira issue data is
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com). Jira issue data is
 generally controlled by the customer's Jira site administrator, so we may direct
 the requester to that administrator or ask for verification.
 

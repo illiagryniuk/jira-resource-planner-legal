@@ -30,4 +30,4 @@ send Jira data or stored planning records to GitHub Pages.
 We will update this page before a material new subprocessor begins processing
 App data where reasonably practicable. Customers with a reasonable data-
 protection objection may contact us at
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com).
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com).

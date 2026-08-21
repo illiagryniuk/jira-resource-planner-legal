@@ -61,4 +61,4 @@ policies.
 
 Jira administrators can use Jira's own export and administration features for
 Jira issue data. For questions or verified requests concerning App planning
-records, contact [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com).
+records, contact [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com).

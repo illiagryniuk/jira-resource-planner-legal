@@ -31,7 +31,7 @@ Netishyn, Khmelnytskyi region, Ukraine.
 
 Website: [product-radar.com](https://product-radar.com/)
 
-Contact: [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)
+Contact: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)
 
 The application and its source code are proprietary. This public repository
 contains documentation and legal information only.

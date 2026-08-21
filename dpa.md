@@ -124,4 +124,4 @@ data, this DPA controls for that conflict. All other terms remain in effect.
 ## 13. Contact
 
 Data protection requests:<br>
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)
