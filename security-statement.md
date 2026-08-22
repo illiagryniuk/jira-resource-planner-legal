@@ -86,5 +86,5 @@ processor receives Jira data during the App's standard runtime operation.
 
 ## Contact
 
-Security reports: [productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)<br>
+Security reports: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)<br>
 Recommended subject: `Security report: Resource Planner & Gantt for Jira`

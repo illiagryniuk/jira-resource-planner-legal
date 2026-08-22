@@ -114,7 +114,7 @@ Jira content, requests should normally be sent first to that customer's Jira
 administrator.
 
 To submit a request concerning data controlled by Product Radar, email
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com). We may need to
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com). We may need to
 verify the requester and coordinate with the relevant Jira site administrator.
 
 ## 12. Children's Privacy
@@ -139,4 +139,4 @@ through an appropriate product, listing, or support channel where required.
 Product Radar, operated by **ФОП Гринюк Ілля Олександрович**<br>
 Netishyn, Khmelnytskyi region, Ukraine<br>
 [product-radar.com](https://product-radar.com/)<br>
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)

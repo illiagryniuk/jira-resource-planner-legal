@@ -147,4 +147,4 @@ mandatory customer rights.
 Product Radar, operated by **ФОП Гринюк Ілля Олександрович**<br>
 Netishyn, Khmelnytskyi region, Ukraine<br>
 [product-radar.com](https://product-radar.com/)<br>
-[productt.radarr@gmail.com](mailto:productt.radarr@gmail.com)
+[illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)
