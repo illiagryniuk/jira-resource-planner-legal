@@ -4,7 +4,7 @@ title: Support
 permalink: /support.html
 ---
 
-Last updated: August 21, 2026
+Last updated: August 25, 2026
 
 ## Contact
 
@@ -47,7 +47,7 @@ information, or other secrets.
 ## Security Reports
 
 Do not use a public issue or public discussion for a suspected vulnerability.
-Email [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com) with the
+Email [security@product-radar.com](mailto:security@product-radar.com) with the
 subject `Security report: Resource Planner & Gantt for Jira` and include:
 
 - A clear description and affected feature.

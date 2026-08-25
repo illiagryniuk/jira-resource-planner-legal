@@ -4,7 +4,7 @@ title: Cloud Security Statement
 permalink: /security-statement.html
 ---
 
-Last updated: August 21, 2026
+Last updated: August 25, 2026
 
 ## Overview
 
@@ -86,5 +86,5 @@ processor receives Jira data during the App's standard runtime operation.
 
 ## Contact
 
-Security reports: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)<br>
+Security reports: [security@product-radar.com](mailto:security@product-radar.com)<br>
 Recommended subject: `Security report: Resource Planner & Gantt for Jira`

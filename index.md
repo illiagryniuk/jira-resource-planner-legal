@@ -4,7 +4,7 @@ title: Resource Planner & Gantt for Jira
 permalink: /
 ---
 
-Last updated: August 21, 2026
+Last updated: August 25, 2026
 
 Resource Planner & Gantt for Jira helps teams plan Jira work by assignee and
 coordinate delivery through connected resource and Gantt timelines.
@@ -31,7 +31,8 @@ Netishyn, Khmelnytskyi region, Ukraine.
 
 Website: [product-radar.com](https://product-radar.com/)
 
-Contact: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)
+General contact: [illia.gryniuk@product-radar.com](mailto:illia.gryniuk@product-radar.com)<br>
+Security contact: [security@product-radar.com](mailto:security@product-radar.com)
 
 The application and its source code are proprietary. This public repository
 contains documentation and legal information only.
